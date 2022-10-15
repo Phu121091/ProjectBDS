@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProjectBDS/static/css/main.206e7dc2.css",
+    "main.js": "/ProjectBDS/static/js/main.67d85d33.js",
+    "static/js/787.9019485b.chunk.js": "/ProjectBDS/static/js/787.9019485b.chunk.js",
+    "index.html": "/ProjectBDS/index.html",
+    "main.206e7dc2.css.map": "/ProjectBDS/static/css/main.206e7dc2.css.map",
+    "main.67d85d33.js.map": "/ProjectBDS/static/js/main.67d85d33.js.map",
+    "787.9019485b.chunk.js.map": "/ProjectBDS/static/js/787.9019485b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206e7dc2.css",
+    "static/js/main.67d85d33.js"
+  ]
+}
